@@ -12,6 +12,7 @@
     letter-spacing: 3px;
     color: #ffeede;
     background-color: #26302b;
+    display: flex;
 }
 .wrapper{
   display: flex;
